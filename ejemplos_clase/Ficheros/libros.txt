@@ -1,0 +1,9 @@
+Autor;Libro;Valoracion;Edad del autor;ISBN;Editorial
+Carlos Ruiz Zafón;La sombra del viento;9.5;55 (fallecido en 2020);9788408043645;Planeta
+Gabriel García Márquez;Cien años de soledad;9.7;87 (fallecido en 2014);9780307474728;Vintage Español
+George Orwell;1984;-18;46 (fallecido en 1950);9780451524935;Signet Classics
+J. R. R. Tolkien;El hobbit;9.3;81 (fallecido en 1973);9780261102217;HarperCollins
+Jane Austen;Orgullo y prejuicio;9.1;41 (fallecida en 1817);9780141439518;Penguin Classics
+Sin autor;El principito;9.0;44 (desaparecido en 1944);9780156012195;Mariner Books
+Arturo Perez Reverte;Territo Comanche;10;74;7896321637812J;Editorial Lucas
+Carlos Ruiz Zafón;Marina;10;55 (fallecido en 2020); 1231232131H;Planeta
