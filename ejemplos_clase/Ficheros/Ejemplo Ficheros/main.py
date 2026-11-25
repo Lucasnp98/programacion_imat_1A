@@ -96,3 +96,42 @@ if __name__ == "__main__":
     
     lista_no_poblados = f.escribir_fichero_paises_poblados(umbral_habitantes)
     print("Los paises que no superan el umbral son: ", lista_no_poblados)
+    
+    
+    
+    
+    
+    # matriz  = [["_", "_", " ", " ", " "],
+    #            ["_", "_", " ", " ", " "],
+    #            ["_", "_", " ", " ", " "],
+    #            ["_", "_", " ", " ", " "],
+    #            ["_", "_", " ", " ", " "]]
+    
+    # palabra = "LUCAS"
+    
+    # n_palabras_insertadas = 0
+    
+    # for pos in range(len(palabra)):
+    #     matriz[n_palabras_insertadas][pos] = palabra[pos]
+        
+        
+        
+    # palabra = "ROSAL"
+    # n_palabras_insertadas += 1
+    # for pos in range(len(palabra)):
+    #     matriz[n_palabras_insertadas][pos] = palabra[pos]
+        
+        
+    # for palabra in matriz:
+        
+    #     for letra in palabra:
+            
+            
+    #         ### decides el color de la letra programando
+            
+            
+            
+    #         print(f"{color}{letra}{defecto}", end = "")
+        
+    #     print()
+    
