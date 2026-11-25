@@ -1,0 +1,8 @@
+Francia:68000000
+Alemania:84000000
+Brasil:213000000
+México:130000000
+Estados Unidos:340000000
+Reino Unido:69000000
+Japón:124000000
+China:1410000000
